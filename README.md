@@ -80,11 +80,5 @@
 
   ## Autor
 
-  Desenvolvido por Geraldo Humberto como parte
-  do portfólio de Business Intelligence.
+  Desenvolvido por Geraldo Humberto de Business Intelligence.
 
-
-  Quando você terminar o relatório de produção,
-  me manda um print ou GIF dele que eu adapto
-  esse README para os indicadores reais do seu
-  dashboard.
